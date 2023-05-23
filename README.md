@@ -7,7 +7,6 @@ Upstore is an e-commerce website that specializes in clothing. Users can sign up
 To get started with the project, you will need to clone the repository to your local machine. 
 
 #### Deployed Link :- https://moonlit-taiyaki-1137b4.netlify.app/
-#### Presentation Video :- https://drive.google.com/file/d/1uD4ysSM2aTG4IdVrifPPfzjBA7pIQrLW/view
 
 # Built With
 
@@ -39,16 +38,3 @@ To get started with the project, you will need to clone the repository to your l
 - Add to Cart
 - Deleting/incrementing/decrementing from Cart
 - Payment
-
-
-## Contribution
-
-- Kamlesh Das
-- Lokendra Pal Shekhawat 
-- Raj Tupe
-- Prabhat Kumar
-- Gaurav Tiwari
-
-## Acknowledgments
-
-Special thanks to Venugopal Burli for their guidance and support during the development of this project.
